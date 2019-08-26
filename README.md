@@ -1,5 +1,5 @@
 # private_blockchain
-A template for a private blockchain bearing unique data, using Bitcoin Core
+A template for a private blockchain bearing unique data.
 
 updated: 08/26/2019
 
