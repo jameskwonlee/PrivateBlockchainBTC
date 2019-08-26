@@ -14,3 +14,6 @@ The message is encoded via hex to ascii when stored into the blockchain, which c
 
 Security features:
 The user has 5-minutes upon signing his/her wallet to submit a block with the desired name and message. After 5-minutes, the wallet signature will be rendered invalid. 
+
+Note:
+If you would like to clone this repo, please note that you must have node installed. Please install all required modules, dependencies, libraries listed in the app.js code. 
